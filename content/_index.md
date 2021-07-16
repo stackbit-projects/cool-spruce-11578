@@ -3,7 +3,7 @@ title: Website Design and Marketing Agency
 sections:
   - type: hero_section
     title: Website Design & Marketing Agency
-    subtitle: 'Business doesn''t pay for website success, they pay for website failure.'
+    subtitle: 'Businesses do not pay for website success, they pay for website failure.'
     actions:
       - label: Learn More
         url: /features
