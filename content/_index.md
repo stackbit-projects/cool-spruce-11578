@@ -26,10 +26,9 @@ sections:
     title: Website Design
     features:
       - title: AMP Website Design
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We've been building web pages and websites in AMP HTML since it was
+          released as Open Source by Google in 2016.  
         align: left
         image: images/wide-amp-background-overlay-3.jpg
         image_alt: Feature 1 placeholder image
