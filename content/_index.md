@@ -3,7 +3,7 @@ title: Website Design and Marketing Agency
 sections:
   - type: hero_section
     title: Website Design & Marketing Agency
-    subtitle: 'Businesses do not pay for website success, they pay for website failure.'
+    subtitle: "Businesses do not pay for website success, they pay for website failure.\_ At Cloud Radix, we build blazing fast, hand crafted, static website solutions that clients can login and update themselves in seconds."
     actions:
       - label: Learn More
         url: /features
