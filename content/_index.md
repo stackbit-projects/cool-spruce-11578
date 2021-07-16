@@ -23,7 +23,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Website Solutions
+    title: Website Design
     features:
       - title: Feature 1
         content: >-
