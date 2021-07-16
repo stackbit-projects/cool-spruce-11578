@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Website Design
     features:
-      - title: Feature 1
+      - title: AMP Website Design
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
