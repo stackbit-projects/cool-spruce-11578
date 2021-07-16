@@ -3,7 +3,7 @@ title: Website Design and Marketing Agency
 sections:
   - type: hero_section
     title: Website Design & Marketing Agency
-    subtitle: "Business doesn't pay for website success, they pay for website failure.\_ Perform an objective, fast and free website quality audit report on any website in the world, just as we show in the video"
+    subtitle: 'Business doesn''t pay for website success, they pay for website failure.'
     actions:
       - label: WEBSITE
         url: /features
