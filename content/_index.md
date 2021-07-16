@@ -3,9 +3,7 @@ title: Website Design and Marketing Agency
 sections:
   - type: hero_section
     title: Website Design & Marketing Agency
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Business doesn''t pay for website success, they pay for website failure.'
     actions:
       - label: Learn More
         url: /features
