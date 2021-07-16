@@ -5,7 +5,7 @@ sections:
     title: Website Design & Marketing Agency
     subtitle: "Business doesn't pay for website success, they pay for website failure.\_ At Cloud Radix, we build blazing fast, hand crafted, static website success solutions for businesses."
     actions:
-      - label: Learn More
+      - label: WEBSITE
         url: /features
         style: primary
       - label: Contact Us
