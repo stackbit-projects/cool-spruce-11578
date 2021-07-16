@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/objectively-measure-any-websi-h_k0vu27ac-767x518.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
